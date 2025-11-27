@@ -1,0 +1,7 @@
+mercury 
+pandas 
+textblob 
+afinn 
+langdetect 
+deep-translator 
+openpyxl 
